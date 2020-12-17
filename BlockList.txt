@@ -10,6 +10,7 @@ cdn.pushowl.com
 d1u9wuqimc88kc.cloudfront.net
 dashboard.wheelio-app.com
 disco-flipclock.netlify.app
+dmb.dnetwork.si
 easygdpr.b-cdn.net
 monorail-edge.shopifysvc.com
 multifbpixels.website
