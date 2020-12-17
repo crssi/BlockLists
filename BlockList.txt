@@ -1,3 +1,5 @@
+api.booster3000.si
+api.mediabooster.si
 boostercentral.com
 boostifytheme.com
 cdn-spurit.com
