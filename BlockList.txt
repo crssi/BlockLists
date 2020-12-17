@@ -19,3 +19,4 @@ sr-cdn.azureedge.net
 sy.salesmanago.pl
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
+eppmedia.si
