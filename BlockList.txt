@@ -4,7 +4,6 @@ adsensecustomsearchads.com
 agilemeasure.com
 alooma.com
 amazon-adsystem.com
-ampcid.google.com
 api.booster3000.si
 api.mediabooster.si
 bf-ad.net
@@ -30,8 +29,6 @@ eppmedia.si
 evidon.com
 future-fie-assets.co.uk
 googlesyndication.com
-googletagmanager.com
-googletagservices.com
 hotjar.com
 hotjar.io
 hubspot.net
@@ -48,7 +45,6 @@ mallgroup.com
 marketo.com
 metric.gstatic.com
 moengage.com
-monorail-edge.shopifysvc.com
 multifbpixels.website
 newrelic.com
 onesignal.com
@@ -72,13 +68,11 @@ spot.im
 sr-cdn.azureedge.net
 stats.olark.com
 sy.salesmanago.pl
-tinypass.com
 track.hubspot.com
 tsmedia.si
 urbanairship.com
 vidible.tv
 wayin.com
 wheelioapp.azureedge.net
-widget.trustpilot.com
 window-shoppers.azurewebsites.net
 yottlyscript.com
