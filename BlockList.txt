@@ -50,7 +50,6 @@ sitebot.cn
 smind.com
 sp-seller.webkul.com
 sp.tinymce.com
-sp.tinymce.com
 sr-cdn.azureedge.net
 stats.olark.com
 sy.salesmanago.pl
