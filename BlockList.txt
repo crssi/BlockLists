@@ -7,7 +7,6 @@ amazon-adsystem.com
 ampcid.google.com
 api.booster3000.si
 api.mediabooster.si
-baidu.com
 bf-ad.net
 boostercentral.com
 boostifytheme.com
