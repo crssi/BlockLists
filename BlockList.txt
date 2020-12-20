@@ -4,6 +4,7 @@ alooma.com
 api.booster3000.si
 api.mediabooster.si
 bf-ad.net
+bigduckgames.s3.amazonaws.com
 boostercentral.com
 boostifytheme.com
 cdn-spurit.com
