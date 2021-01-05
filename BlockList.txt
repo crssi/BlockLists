@@ -4,6 +4,7 @@ agilemeasure.com
 alooma.com
 api.booster3000.si
 api.mediabooster.si
+app3.salesmanago.pl
 bf-ad.net
 bigduckgames.s3.amazonaws.com
 boostercentral.com
