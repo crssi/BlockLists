@@ -61,6 +61,7 @@ stats.olark.com
 sy.salesmanago.pl
 track.hubspot.com
 tsmedia.si
+verify.safesigned.com
 wayin.com
 wh.vecer.com
 wheelioapp.azureedge.net
