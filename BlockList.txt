@@ -61,6 +61,7 @@ sy.salesmanago.pl
 track.hubspot.com
 tsmedia.si
 wayin.com
+wh.vecer.com
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
 yottlyscript.com
