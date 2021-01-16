@@ -26,6 +26,7 @@ dmb.dnetwork.si
 easygdpr.b-cdn.net
 eppmedia.si
 future-fie-assets.co.uk
+go-ctr-tracker.pub.24ur.si
 googlesyndication.com
 hotjar.io
 inspectlet.com
