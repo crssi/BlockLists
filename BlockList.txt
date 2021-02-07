@@ -1,4 +1,3 @@
-a.ert4.co
 aaa.bisnode.si
 ads.24ur.si
 adsensecustomsearchads.com
@@ -69,3 +68,9 @@ wh.vecer.com
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
 yottlyscript.com
+
+! Mallware
+a.ert4.co
+aytreatica.online
+euphe-gun.com
+mega-nd.site
