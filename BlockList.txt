@@ -51,6 +51,7 @@ polldaddy.com
 pristopmedia.network
 purch.com
 quantserve.com
+reports.crashlytics.com
 sandsiv.com
 service.cmp.oath.com
 sitebot.ai
