@@ -73,7 +73,7 @@ wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
 yottlyscript.com
 
-! Mallware
+! Malware
 a.ert4.co
 aytreatica.online
 euphe-gun.com
