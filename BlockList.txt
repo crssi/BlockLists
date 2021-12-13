@@ -82,3 +82,4 @@ mega-nd.site
 
 ! Phishing
 postaslovenije.com
+beta.generator.smarthost.pl
