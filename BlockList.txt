@@ -8,6 +8,7 @@ alooma.com
 api.booster3000.si
 api.mediabooster.si
 app3.salesmanago.pl
+beacons5.gvt3.com
 bf-ad.net
 bigduckgames.s3.amazonaws.com
 boostercentral.com
