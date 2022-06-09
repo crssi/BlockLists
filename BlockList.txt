@@ -57,13 +57,13 @@ polldaddy.com
 pristopmedia.network
 purch.com
 quantserve.com
-report.appmetrica.yandex.net
 reports.crashlytics.com
 sandsiv.com
 service.cmp.oath.com
 sitebot.ai
 sitebot.cn
 smind.com
+sombrero.yahoo.net
 sp-seller.webkul.com
 sp.tinymce.com
 sr-cdn.azureedge.net
