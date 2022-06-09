@@ -44,7 +44,6 @@ oglasi.slo-tech.com
 performances.bestofmedia.coms
 pristopmedia.network
 quantserve.com
-reports.crashlytics.com
 sandsiv.com
 service.cmp.oath.com
 sitebot.ai
@@ -53,7 +52,6 @@ smind.com
 sombrero.yahoo.net
 sp.tinymce.com
 sr-cdn.azureedge.net
-static-mon.yandex.net
 stats.olark.com
 sy.salesmanago.pl
 track.hubspot.com
