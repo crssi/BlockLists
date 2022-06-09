@@ -48,6 +48,7 @@ metric.gstatic.com
 metrospacesz.biz
 multifbpixels.website
 odpriteoci.com
+oglasi.slo-tech.com
 onesignal.com
 outbrain.com
 performances.bestofmedia.com
