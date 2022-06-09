@@ -41,7 +41,7 @@ mg-marxy.mall.cz
 multifbpixels.website
 odpriteoci.com
 oglasi.slo-tech.com
-performances.bestofmedia.com
+performances.bestofmedia.coms
 pristopmedia.network
 quantserve.com
 reports.crashlytics.com
@@ -59,6 +59,11 @@ sy.salesmanago.pl
 track.hubspot.com
 tsmedia.si
 verify.safesigned.com
+vulcan1.branch.io
+vulcan2.branch.io
+vulcan3.branch.io
+vulcan4.branch.io
+vulcan5.branch.io
 wh.vecer.com
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
