@@ -65,6 +65,7 @@ vulcan5.branch.io
 wh.vecer.com
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
+www.atmrum.net
 yottlyscript.com
 
 ! Malware
