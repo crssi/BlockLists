@@ -74,6 +74,7 @@ yottlyscript.com
 a.ert4.co
 euphe-gun.com
 onongo.info
+qrco.de
 
 ! Phishing
 beta.generator.smarthost.pl
