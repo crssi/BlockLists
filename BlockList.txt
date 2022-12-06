@@ -74,9 +74,13 @@ yottlyscript.com
 a.ert4.co
 euphe-gun.com
 onongo.info
-qrco.de
 
 ! Phishing
 beta.generator.smarthost.pl
 asikonyash.com
 slvhali.com
+
+! Fradulent
+draqkss.edu.pk
+qrco.de
+xn--glcksmutter-uhb.net
