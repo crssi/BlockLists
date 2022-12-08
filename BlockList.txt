@@ -78,7 +78,9 @@ onongo.info
 ! Phishing
 beta.generator.smarthost.pl
 asikonyash.com
+mjt.lu
 slvhali.com
+yusercontent.com
 
 ! Fradulent
 draqkss.edu.pk
