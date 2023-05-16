@@ -3,13 +3,9 @@ ad.exilio.net
 ads-store.24ur.com
 ads.24ur.si
 adsensecustomsearchads.com
-agilemeasure.com
-alooma.com
-api.booster3000.si
 api.mediabooster.si
 app3.salesmanago.pl
 beacons5.gvt3.com
-bf-ad.net
 bigduckgames.s3.amazonaws.com
 boostercentral.com
 boostifytheme.com
@@ -29,7 +25,6 @@ eppmedia.si
 future-fie-assets.co.uk
 go-ctr-tracker.pub.24ur.si
 googlesyndication.com
-hotjar.io
 inspectlet.com
 invitejs.trustpilot.com
 iprom.net
@@ -37,21 +32,17 @@ knowyourapps.com
 leadsdome.com
 livenetlife.com
 log.olark.com
-metrospacesz.biz
 mg-marxy.mall.cz
 multifbpixels.website
 odpriteoci.com
 oglasi.slo-tech.com
-performances.bestofmedia.com
 pristopmedia.network
 ps.ceneje.si
-quantserve.com
 readmo.yahoo.com
 sandsiv.com
 service.cmp.oath.com
 sitebot.ai
 smind.com
-sombrero.yahoo.net
 sp.tinymce.com
 sr-cdn.azureedge.net
 stats.olark.com
@@ -67,17 +58,14 @@ vulcan5.branch.io
 wh.vecer.com
 wheelioapp.azureedge.net
 window-shoppers.azurewebsites.net
-www.atmrum.net
 yottlyscript.com
 
 ! Malware
-a.ert4.co
 euphe-gun.com
 onongo.info
 
 ! Phishing
 beta.generator.smarthost.pl
-asikonyash.com
 mjt.lu
 slvhali.com
 yusercontent.com
