@@ -68,7 +68,6 @@ onongo.info
 ! Phishing
 beta.generator.smarthost.pl
 mjt.lu
-slvhali.com
 yusercontent.com
 
 ! Fradulent
