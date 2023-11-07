@@ -15,6 +15,7 @@ cdn.ghostmonitor.com
 cdn.pushowl.com
 chimpstatic.com
 cpx.smind.si
+cross-promo-provider.easybrain.com
 d1u9wuqimc88kc.cloudfront.net
 dashboard.wheelio-app.com
 decacopy.com
