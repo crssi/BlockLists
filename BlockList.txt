@@ -1,15 +1,12 @@
 aaa.bisnode.si
-ad.exilio.net
 ads-store.24ur.com
 ads.24ur.si
 adsensecustomsearchads.com
-app3.salesmanago.pl
 beacons5.gvt3.com
 bigduckgames.s3.amazonaws.com
 boostercentral.com
 boostifytheme.com
 cdn-spurit.com
-cdn.codeblackbelt.com
 cdn.ghostmonitor.com
 cdn.pushowl.com
 chimpstatic.com
@@ -39,8 +36,6 @@ oglasi.slo-tech.com
 pristopmedia.network
 ps.ceneje.si
 readmo.yahoo.com
-sandsiv.com
-service.cmp.oath.com
 sitebot.ai
 smind.com
 sp.tinymce.com
@@ -65,52 +60,28 @@ onongo.info
 
 ! Phishing
 beta.generator.smarthost.pl
-mjt.lu
-yusercontent.com
 
 ! Fradulent
 draqkss.edu.pk
-qrco.de
 
 ! Fake Shops - source: https://www.gov.si/drzavni-organi/organi-v-sestavi/trzni-inspektorat/
-adidasoutletslovenija.com
-adidasoutletslovenija.com
 azurite.top
 belenkasslovenia.com
 boo-shop.eu
-bvarotgo.com
-camper-slovenija.com
 converseinslovenija.com
 dinamik-celje.si
-dopesnowslovenija.com
 drmartensslovenia.com
 intimissimislovenija.com
 jordanljubljana.com
-jordansslovenia.com
-jordansslovenjia.com
-kynto-ljubljana.com
-kynto-ljubljana.com
-lasportivaljubljana.com
 marcjacobs-si.world
-maxeternal.com
-ngdfk.shop
-nikedunkslovenija.com
-nikeislovenia.com
-nikejordanslovenija.com
 nikeshoesslovenija.com
 pumaslovenia.com
-qatredrzw.shop
 qwaxcv.myshoplaza.com
 shophq.online
-shopxqd.online
-sihtt.nyffgw.shop
 sunflowerda.com
 superfitslovenija.com
-teva-slovenija.com
 thebox-slo.com
 tropellyo.com
-uggslovenijaoutlet.net
 vans-slovenija.com
 veja-slovenia.com
 vejaljubljana.com
-vivobarefootslovenia.com
