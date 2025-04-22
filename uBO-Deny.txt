@@ -1,6 +1,6 @@
 ! Title: crssi: Deny
 ! Expires: 2 days
-! Homepage: https://github.com/crssi/Firefox
+! Homepage: https://github.com/crssi/BlockLists
 
 ! Allow extensions like uBO/uM to get the filter list updates
 @@||$domain=moz-extension-scheme

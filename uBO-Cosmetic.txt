@@ -1,6 +1,6 @@
 ! Title: crssi: Cosmetic
 ! Expires: 2 days
-! Homepage: https://github.com/crssi/Firefox
+! Homepage: https://github.com/crssi/BlockLists
 
 youtube.com##div[class^="branding-img-container"]
 # to remove cards ovelay uncomment next line
