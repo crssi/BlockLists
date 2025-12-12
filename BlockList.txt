@@ -31,7 +31,6 @@ livenetlife.com
 log.olark.com
 mg-marxy.mall.cz
 multifbpixels.website
-odpriteoci.com
 oglasi.slo-tech.com
 pristopmedia.network
 ps.ceneje.si
@@ -65,21 +64,13 @@ beta.generator.smarthost.pl
 draqkss.edu.pk
 
 ! Fake Shops - source: https://www.gov.si/drzavni-organi/organi-v-sestavi/trzni-inspektorat/
-azurite.top
-boo-shop.eu
-converseinslovenija.com
 dinamik-celje.si
 drmartensslovenia.com
 intimissimislovenija.com
 jordanljubljana.com
 marcjacobs-si.world
-nikeshoesslovenija.com
 pumaslovenia.com
 qwaxcv.myshoplaza.com
-shophq.online
-sunflowerda.com
 superfitslovenija.com
-thebox-slo.com
 tropellyo.com
 veja-slovenia.com
-vejaljubljana.com
