@@ -49,6 +49,7 @@
 @@||fast.wistia.com^$script
 @@||filesusr.com^$1p
 @@||forcesafesearch.google.com^
+@@||go-ctr-tracker.pub.24ur.si^
 @@||google-analytics.com/analytics.js$script,domain=amainhobbies.com
 @@||google.*/cse/$script,stylesheet
 @@||google.*/maps/$subdocument
